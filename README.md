@@ -1,4 +1,4 @@
-## Hi there :wave:  isim  is here. (LOADING...)
+## Hi there :wave:  I'm Yasin.
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasin-g%C3%BCltekin-374847224/)
 <a href="https://yasingultekin.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=yasingultekin" alt="visitor counter" width="15%"/>
 <!-- <p align="left">  </p> -->
