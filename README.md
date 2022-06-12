@@ -3,6 +3,7 @@
 <a href="https://yasingultekin.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=yasingultekin" alt="visitor counter" width="15%"/>
 <!-- <p align="left">  </p> -->
 ### What I'm using ? :hammer_and_wrench:
+I prefer React & React Native for web/mobile front-end development.
 - Python, SQL, HTML5, CSS3, Git, GitHub
 - :speech_balloon: Ask  me about anything that you want to learn
 -  You can reach me via Linkedin:  <a href="https://www.linkedin.com/in/yasin-g%C3%BCltekin-374847224/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a>
