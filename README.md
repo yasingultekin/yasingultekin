@@ -2,6 +2,7 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasin-g%C3%BCltekin-374847224/)
 <a href="https://yasingultekin.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=yasingultekin" alt="visitor counter" width="15%"/>
 <!-- <p align="left">  </p> -->
+
 ### What I'm using ? 🛠
 
 I prefer React for front-end development.
@@ -13,6 +14,7 @@ I prefer React for front-end development.
 
 -  You can reach me via Linkedin:  <a href="https://www.linkedin.com/in/yasin-g%C3%BCltekin-374847224/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a>
 ## 🚀 Skills
+
 <p>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="50"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js" height="48"/> </a>
